@@ -1,0 +1,14 @@
+# Gradle 관련 파일 및 폴더 제외
+.gradle/
+build/
+
+# 기타 일반적인 제외 항목
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+.DS_Store
