@@ -20,6 +20,7 @@ class AppTest {
         assertEquals("Hello, World!\n", outContent.toString());
 
         // 원래의 System.out으로 복원
+        // Restores the original System.out PrintStream that was saved before the test
         System.setOut(originalOut);
     }
 }
