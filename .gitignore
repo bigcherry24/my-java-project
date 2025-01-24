@@ -3,6 +3,7 @@
 build/
 
 # 기타 일반적인 제외 항목
+
 *.class
 *.log
 *.jar
