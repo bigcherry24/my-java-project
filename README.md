@@ -55,3 +55,8 @@ List any dependencies your project requires in the `build.gradle` file.
 ## License
 
 This project is licensed under the MIT License.
+
+
+## Python execution Issue
+ Vscode jupyter notebook interrupt 안먹는 경우
+출처: https://barrer.tistory.com/168 [Barrer. better:티스토리]
